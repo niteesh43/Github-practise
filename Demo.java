@@ -1,5 +1,5 @@
 public class Demo{
-public void method1{
+public void demomethod(){
 
 }
 }
